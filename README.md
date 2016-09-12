@@ -1,8 +1,7 @@
 # Ghost image on Scaleway
 
-[![Travis](https://img.shields.io/travis/scaleway-community/scaleway-ghost.svg)](https://travis-ci.org/scaleway-community/scaleway-ghost)
+[![Travis](https://img.shields.io/travis/promissory_estoppel/scaleway-ghost.svg)](https://travis-ci.org/promissory_estoppel/scaleway-ghost)
 [![Scaleway ImageHub](https://img.shields.io/badge/ImageHub-view-ff69b4.svg)](https://hub.scaleway.com/ghost.html)
-[![Run on Scaleway](https://img.shields.io/badge/Scaleway-run-69b4ff.svg)](https://cloud.scaleway.com/#/servers/new?image=4653d871-5e19-4093-a08d-f3fca34b9ca8)
 
 Launch your Ghost app on Scaleway servers in minutes.
 
